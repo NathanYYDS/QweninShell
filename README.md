@@ -1,4 +1,6 @@
-# QweninShell
+<p align="center">
+    QweninShell
+<p>
 Qwen大模型接管系统，执行全自动化操作，解放双手, 运行之前先备份系统，**！！！强烈推荐在docker中运行！！！**，以免大模型对系统造成不可逆转的破坏。
 
 # 开发进度

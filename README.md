@@ -11,6 +11,11 @@ Qwen大模型接管系统，执行全自动化操作，解放双手，运行之�
 # 开始上手
 
 ## 安装
+本项目依赖以下库：
+
+- [Qwen-Agent](https://github.com/QwenLM/Qwen-Agent): 提供Agent框架
+
+请确保安装这些依赖库以正常使用本项目。
 
 - 从 PyPI 安装稳定版本：
 ```bash
